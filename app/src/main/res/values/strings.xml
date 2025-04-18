@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Carpenter App</string>
+    <string name="Select_Task_Type">Select Task Type</string>
+    <string name="Install_door">Install door</string>
+    <string name="Build_shelf">Build Shelf</string>
+    <string name="Assemble_Furniture">Assemble Furniture</string>
+    <string name="Enter_number_of_hours">Enter number of hours</string>
+    <string name="wood">Wood(R500)</string>
+    <string name="nails">nails(R20)</string>
+    <string name="Hinges">Hinges(R30)</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Total_Cost">Total Cost</string>
+</resources>
